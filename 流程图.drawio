@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:49:44.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_o2NJ_yoIpp0sFi3bfCF" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T08:50:01.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="X1MTSKE3iexsQOsHwSZs" version="21.6.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1695" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -263,25 +263,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-104" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1575" y="185" width="160" height="330" as="geometry" />
+          <mxGeometry x="1557.5" y="187.5" width="195" height="325" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-80" value="视图设计" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="nIkuu3i8_g6gluYLM6Xp-104" vertex="1">
-          <mxGeometry width="160" height="330" as="geometry" />
+          <mxGeometry width="195" height="325" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-85" value="基础维度表增量同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nIkuu3i8_g6gluYLM6Xp-104" vertex="1">
-          <mxGeometry x="20" y="154" width="120" height="32.19512195121951" as="geometry" />
+          <mxGeometry x="24.375" y="151.66666666666666" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-86" value="实时数据增量同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nIkuu3i8_g6gluYLM6Xp-104" vertex="1">
-          <mxGeometry x="20" y="216" width="120" height="32.19512195121951" as="geometry" />
+          <mxGeometry x="24.375" y="212.72727272727272" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-87" value="报表数据同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nIkuu3i8_g6gluYLM6Xp-104" vertex="1">
-          <mxGeometry x="20" y="277.68292682926824" width="120" height="32.19512195121951" as="geometry" />
+          <mxGeometry x="24.375" y="273.4756097560975" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-88" value="基础元数据同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nIkuu3i8_g6gluYLM6Xp-104" vertex="1">
-          <mxGeometry x="20" y="92" width="120" height="32.19512195121951" as="geometry" />
+          <mxGeometry x="24.375" y="90.60606060606061" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="av6YXqfHK4GFkS8g92EC-15" value="数据模型设计建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="nIkuu3i8_g6gluYLM6Xp-104">
-          <mxGeometry x="20" y="30.0019512195122" width="120" height="32.19512195121951" as="geometry" />
+          <mxGeometry x="24.375" y="29.547376201034744" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-105" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1920" y="860" width="80" height="230" as="geometry" />
