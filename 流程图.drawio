@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:57:02.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rhTdPZPZvH-JEoZbE_o2" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T09:00:31.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_NkOo3fcGQvfH_Sdmhq7" version="21.6.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1695" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -103,10 +103,10 @@
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-42" value="web后台应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="840" y="810" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nIkuu3i8_g6gluYLM6Xp-43" value="移动端后台应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="nIkuu3i8_g6gluYLM6Xp-43" value="视频监控应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="840" y="870" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nIkuu3i8_g6gluYLM6Xp-44" value="小程序应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="nIkuu3i8_g6gluYLM6Xp-44" value="告警应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="840" y="937.5" width="120" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-45" value="更多应用..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
@@ -219,7 +219,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIkuu3i8_g6gluYLM6Xp-67" value="搜索引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="nIkuu3i8_g6gluYLM6Xp-67" value="OLAP数据分析引擎" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1900" y="817.5" width="500" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nIkuu3i8_g6gluYLM6Xp-68" value="同步工具" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
