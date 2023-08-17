@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:54:12.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5evyvEOpZoA9be2AuGMi" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T08:56:20.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="49yii71coIL8UGGV0_k9" version="21.6.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1695" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -366,7 +366,7 @@
         <mxCell id="av6YXqfHK4GFkS8g92EC-37" value="告警信息采集" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
           <mxGeometry width="195" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="av6YXqfHK4GFkS8g92EC-38" value="基础维度表增量同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
+        <mxCell id="av6YXqfHK4GFkS8g92EC-38" value="告警事件同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
           <mxGeometry x="24.375" y="151.66666666666666" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="av6YXqfHK4GFkS8g92EC-39" value="实时数据增量同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
@@ -375,7 +375,7 @@
         <mxCell id="av6YXqfHK4GFkS8g92EC-40" value="报表数据同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
           <mxGeometry x="24.375" y="273.4756097560975" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
-        <mxCell id="av6YXqfHK4GFkS8g92EC-41" value="基础元数据同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
+        <mxCell id="av6YXqfHK4GFkS8g92EC-41" value="告警类型&amp;amp;行业等维度同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
           <mxGeometry x="24.375" y="90.60606060606061" width="146.25" height="31.70731707317073" as="geometry" />
         </mxCell>
         <mxCell id="av6YXqfHK4GFkS8g92EC-42" value="数据模型设计建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="av6YXqfHK4GFkS8g92EC-36">
